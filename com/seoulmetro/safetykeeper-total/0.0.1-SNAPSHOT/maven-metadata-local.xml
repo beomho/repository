@@ -3,7 +3,7 @@
   <groupId>com.seoulmetro</groupId>
   <artifactId>safetykeeper-total</artifactId>
   <versioning>
-    <lastUpdated>20241118012437</lastUpdated>
+    <lastUpdated>20241118021343</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,7 +11,7 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20241118012437</updated>
+        <updated>20241118021343</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
